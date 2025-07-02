@@ -20,7 +20,7 @@ restoring the data if needed, and cleaning up resources at the end of the proces
     chmod +x cleanup.sh<br>
 6. Run ./setup.sh
 7. Run ./restore.sh
-8. Open the website's URL - localhost:8080
+8. Open the website's URL - http://localhost:8080
 9. Admin panel: http://localhost:8080/administrator
    Username: demoadmin
    Password: secretpassword
